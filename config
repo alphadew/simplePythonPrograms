@@ -1,0 +1,5 @@
+sudo chown -R mcaadmin /home/mcaadmin/anaconda3/
+sudo chmod -R +x /home/mcaadmin/anaconda3/
+sudo apt-get install python3-pymysql
+sudo pip3 install pymysql
+conda install PyMySQL
